@@ -1,2 +1,9 @@
 # Some-Famous-Algorithms
-In this repo, I have implemented some famous algorithms from CLRS book.
+this repository contains :
+1.Insertion Sort
+2.Merge Sort
+3.Binary Search
+...
+algorithms.
+
+the list will update!
