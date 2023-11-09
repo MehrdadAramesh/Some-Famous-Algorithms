@@ -1,9 +1,9 @@
 # Some-Famous-Algorithms
-this repository contains :\n
-1.Insertion Sort\n
-2.Merge Sort\n
-3.Binary Search\n
-...\n
-algorithms.\n
+this repository contains :
+1.Insertion Sort
+2.Merge Sort
+3.Binary Search
+...
+algorithms.
 
 the list will update!
