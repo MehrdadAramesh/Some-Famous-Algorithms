@@ -7,6 +7,8 @@ this repository contains :
 
 3.Binary Search
 
+4.Quick Sort
+
 ...
 
 algorithms.
